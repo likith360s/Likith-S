@@ -35,7 +35,10 @@ Features
 Ultrasonic sensors
 Automated waste classification
 Hardware-software integration
+Reach me
 
+https://www.linkedin.com/in/likith-s-3488a3393/
+likith360s@gmail.com
 Currently Learning
 
 Django
